@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">location</string>
+    <string name="default_location_msg">no location</string>
+    <string name="default_provider_msg">no location provider</string>
+</resources>
